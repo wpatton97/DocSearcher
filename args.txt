@@ -1,3 +1,0 @@
-file: "(Sol|sol)\\w*(.doc)$"
-search : "(/CD)"
-searchDir : "/Users/admin/fuji_2019-10-01"
