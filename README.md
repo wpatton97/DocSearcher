@@ -18,6 +18,8 @@ sudo pacman -Syu antiword # if you are on arch missing antiword
 
 go get github.com/Ragex04/DocSearcher
 go install github.com/Ragex04/DocSearcher
+
+./DocSearcher Past_Exams/Solutions "(Sol|sol)\w*(.doc)" "(IP address)"
 ```
 
 Most this code depends on Antiword, credit to antiword goes to __Adri van Os(http://www.winfield.demon.nl/)__
